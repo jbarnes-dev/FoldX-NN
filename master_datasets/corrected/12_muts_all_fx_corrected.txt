@@ -1,0 +1,3 @@
+system	mutation	ddG_foldx	BackHbond	SideHbond	Energy_VdW	Electro	Energy_SolvP	Energy_SolvH	Energy_vdwclash	energy_torsion	backbone_vdwclash	Entropy_sidec	Entropy_mainc	water bonds	helix dipole	loop_entropy	cis_bond	disulfide	kn electrostatic	partial covalent interactions	Energy_Ionisation	Entropy Complex	exp_ddG	diff
+1BP3_A_B	YA111V,LA113I,KA115E,DA116Q,EA118K,EA119R,RA120L,QA122E,TA123G,GA126L,RA127I,EA129S	0.0179	-1.93	-10.19	-20.15	-2.19	28.86	-25.29	1.15	1.33	2.91	8.3	4.56	-5.58	-0.1	0.0	0.0	0.0	-0.45	0.0	0.16	2.38	-0.3928	-0.4107
+2P5E_ABC_DE	TD51Q,PD52S,WD53S,AE49G,IE50A,QE51G,TE52I,LD95T,LD96S,DD97G,TD99S,LE94V	3.6767	-6.22	-9.99	-21.34	-1.21	25.31	-27.32	1.72	0.4	4.46	9.18	4.45	-4.04	0.04	0.0	-0.0	-0.0	-0.11	0.0	0.03	2.38	7.9519	4.2752

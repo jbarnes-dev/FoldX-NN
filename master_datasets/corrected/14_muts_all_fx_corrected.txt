@@ -1,0 +1,3 @@
+system	mutation	ddG_foldx	BackHbond	SideHbond	Energy_VdW	Electro	Energy_SolvP	Energy_SolvH	Energy_vdwclash	energy_torsion	backbone_vdwclash	Entropy_sidec	Entropy_mainc	water bonds	helix dipole	loop_entropy	cis_bond	disulfide	kn electrostatic	partial covalent interactions	Energy_Ionisation	Entropy Complex	exp_ddG	diff
+1EMV_A_B	QA17E,LA18F,TA20K,TA21K,NA24R,DA26E,TA27G,SA28A,SA29T,SA65E,NA69K,TA70E,VA71I,QA73E	1.225	-5.65	-10.03	-14.75	-2.89	20.4	-18.24	0.63	0.11	3.47	7.47	0.9	-3.24	-0.61	0.0	0.0	0.0	-0.96	0.0	0.0	2.38	2.8552	1.6302
+2WPT_A_B	KA20T,KA21T,RA24N,EA26D,GA27T,AA28S,TA29S,DA32E,DA33L,NA34V,RA38T,EA39H,RA42E,LA43M	0.7629	-3.98	-8.15	-14.85	-3.43	20.63	-18.51	0.45	0.16	3.7	7.2	1.65	-3.22	-0.46	0.0	0.0	0.0	-1.01	0.0	0.0	2.38	-8.2629	-9.0258

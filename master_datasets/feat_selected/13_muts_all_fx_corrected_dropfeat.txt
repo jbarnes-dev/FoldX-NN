@@ -1,0 +1,4 @@
+system	mutation	ddG_foldx	BackHbond	SideHbond	Energy_VdW	Electro	Energy_SolvP	Energy_SolvH	Energy_vdwclash	energy_torsion	backbone_vdwclash	Entropy_sidec	Entropy_mainc	water bonds	helix dipole	cis_bond	kn electrostatic	Energy_Ionisation	exp_ddG	diff
+1EMV_A_B	QA17E,LA18F,SA48D,KA57R,EA58D,GA59D,DA60R,DA61E,SA65E,NA69K,TA70E,VA71I,QA73E	-0.2275	-5.74	-11.0	-14.82	-3.08	20.43	-18.27	0.64	0.11	3.8	7.19	0.74	-2.93	-0.45	0.0	-1.14	0.0	-0.2084	0.0191
+2P5E_ABC_DE	YD31D,TD51Q,PD52S,WD53S,AE49G,IE50A,QE51G,TE52I,LD95T,LD96S,DD97G,TD99S,LE94V	7.3158	-6.14	-8.72	-20.28	-1.35	25.92	-25.69	1.47	0.41	4.34	8.7	4.21	-3.88	0.01	-0.0	-0.15	0.02	7.77419	0.45839
+2WPT_A_B	DA32E,DA33L,NA34V,RA38T,EA39H,RA42E,LA43M,DA48S,RA57K,DA58E,DA59G,RA60D,EA61D	-0.6027	-5.7	-12.02	-15.72	-3.66	22.51	-19.52	0.59	0.36	4.04	10.28	3.16	-3.62	-0.61	0.0	-0.9	0.0	-5.1993	-4.5966

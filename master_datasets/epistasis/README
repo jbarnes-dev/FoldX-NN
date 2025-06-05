@@ -1,0 +1,7 @@
+Epistasis set singles is the single mutations which are part of the epistasis dataset. This is 12.6% of the total singles dataset. 
+
+singles_no_epistasis is the singles data sans data with epistasis. 
+
+The intention is to then build a model where the epistasis set is part of the test set. Thus the train:test split for this model would be 0.084 to then be combined with the epistasis subset. Then final predictions can be made and set aside. 
+
+Furthermore runs of double mutations will then have predictions involving any of the double mutations set aside to then evaluate epistasis performance. This gets a bit tricky with the variation between runs. 
